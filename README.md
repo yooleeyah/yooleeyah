@@ -1,11 +1,31 @@
 <h1 align="center">Привет! Я — Юлия</h1>
 <h3 align="center">Data Scientist</h3>
 
-Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения. 
+Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения.
 
-📊 Стэк: Python (scikit-learn, pandas, numpy, matplotlib), SQL, PyTorch, TensorFlow, XGBoost, LightGBM, CatBoost, Jupyter Notebook / Colab, Git.
+- :computer: Пишу на **Python**
+- :page_facing_up: Моё [**резюме**](https://hh.ru/resume/1387c761ff0f089dac0039ed1f766e76376a54)
+- 📫 Контакты: yuliya.khismatullina@bk.ru, тг: @yooleeyah1
 
-📫 Контакты: yuliya.khismatullina@bk.ru, @yooleeyah1
+### Я умею
+
+<p align="left">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" hight="50" width="50" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" hight="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" hight="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" hight="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" hight="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" hight="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" hight="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" hight="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" hight="50" width="50"/>
+</p>
+
+### Топ языков
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yooleeyah)
+
+### Статистика профиля
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yooleeyah&theme=solarized)
 
 <!--
 **yooleeyah/yooleeyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
