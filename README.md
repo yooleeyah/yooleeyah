@@ -1,4 +1,11 @@
-## Hi there 👋
+<h1 align="center">Привет! Я — Юлия</h1>
+<h3 align="center">Data Scientist</h3>
+
+Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения. 
+
+📊 Стэк: Python (scikit-learn, pandas, numpy, matplotlib), SQL, PyTorch, TensorFlow, XGBoost, LightGBM, CatBoost, Jupyter Notebook / Colab, Git.
+
+📫 Контакты: yuliya.khismatullina@bk.ru, @yooleeyah1
 
 <!--
 **yooleeyah/yooleeyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
