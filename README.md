@@ -24,8 +24,8 @@
 ### Топ языков
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yooleeyah)
 
-### Статистика профиля
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yooleeyah&theme=solarized)
+<!--### Статистика профиля
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yooleeyah&theme=solarized)-->
 
 <!--
 **yooleeyah/yooleeyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
