@@ -4,7 +4,7 @@
 Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения.
 
 - :computer: Пишу на **Python**
-- :page_facing_up: Моё [**резюме**](https://hh.ru/resume/1387c761ff0f089dac0039ed1f766e76376a54)
+- :page_facing_up: Моё [**резюме**](https://drive.google.com/file/d/1ddKFgBvcJn0nOJh2vQyjnyAdRoD33mXf/view?usp=sharing)
 - 📫 Контакты: yuliya.khismatullina@bk.ru, тг: @yooleeyah1
 
 ### Я умею
