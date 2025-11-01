@@ -1,7 +1,12 @@
 <h1 align="center">Привет! Я — Юлия</h1>
 <h3 align="center">Data Scientist</h3>
 
-Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения.
+Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения:
+* probability_of_default - модель предсказания кредитного риска (PD)
+* apartment-price-prediction - модель предсказания стоимости квартиры
+* cancer-factors - исследование feature importance у моделей, предсказывающих наличие рака шейки матки
+* hand-gesture-recognition - модель распознавания жестов рук
+* senior-predictor - модель, предсказывающая старшую возрастную категорию
 
 - :computer: Пишу на **Python**
 - :page_facing_up: Моё [**резюме**](https://drive.google.com/file/d/1ddKFgBvcJn0nOJh2vQyjnyAdRoD33mXf/view?usp=sharing)
