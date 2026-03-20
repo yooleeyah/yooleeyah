@@ -2,8 +2,8 @@
 <h3 align="center">Data Scientist</h3>
 
 Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения:
-* apartment-price-prediction - модель прогнозирования стоимости квартиры
 * probability_of_default - модель прогнозирования кредитного риска (PD)
+* apartment-price-prediction - модель прогнозирования стоимости квартиры
 * hand-gesture-recognition - модель распознавания жестов рук
 * cancer-factors - исследование feature importance у моделей, прогнозирующих наличие рака шейки матки
 * senior-predictor - модель прогнозирования старшей возрастной категории
