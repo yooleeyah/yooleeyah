@@ -9,8 +9,8 @@
 * senior-predictor - модель прогнозирования старшей возрастной категории
 
 - :computer: Пишу на **Python**
-- :page_facing_up: Моё [**резюме**](https://drive.google.com/file/d/1ddKFgBvcJn0nOJh2vQyjnyAdRoD33mXf/view?usp=sharing)
-- 📫 Контакты: yuliya.khismatullina@bk.ru, тг: @yooleeyah1
+<!-- :page_facing_up: Моё [**резюме**](https://drive.google.com/file/d/1ddKFgBvcJn0nOJh2vQyjnyAdRoD33mXf/view?usp=sharing) -->
+- 📫 Контакты: yu.rafikova@bk.ru, тг: @yooleeyah1
 
 ### Я умею
 
