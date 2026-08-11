@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я — Юлиана</h1>
+<h1 align="center">Привет! Я — Юля</h1>
 <h3 align="center">Data Scientist</h3>
 
 Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения:
@@ -26,8 +26,8 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" hight="50" width="50"/>
 </p>
 
-### Топ языков
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yooleeyah)
+<!--### Топ языков
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yooleeyah)-->
 
 <!--### Статистика профиля
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yooleeyah&theme=solarized)-->
