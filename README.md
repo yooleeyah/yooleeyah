@@ -1,7 +1,7 @@
-<h1 align="center">Привет! Я — Юля</h1>
+<h1 align="center">Привет! Я - Юля</h1>
 <h3 align="center">Data Scientist</h3>
 
-Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже — мои проекты машинного обучения:
+Люблю работать с реальными данными и вытаскивать из них смыслы. Ниже - мои проекты машинного обучения:
 * probability_of_default - модель прогнозирования кредитного риска (PD)
 * apartment-price-prediction - модель прогнозирования стоимости квартиры
 * hand-gesture-recognition - модель распознавания жестов рук
@@ -9,8 +9,8 @@
 * senior-predictor - модель прогнозирования старшей возрастной категории
 
 - :computer: Пишу на **Python**
-<!-- :page_facing_up: Моё [**резюме**](https://drive.google.com/file/d/1ddKFgBvcJn0nOJh2vQyjnyAdRoD33mXf/view?usp=sharing) -->
 - 📫 Контакты: yu.rafikova@bk.ru, тг: @yooleeyah1
+<!-- :page_facing_up: Моё [**резюме**](https://drive.google.com/file/d/1ddKFgBvcJn0nOJh2vQyjnyAdRoD33mXf/view?usp=sharing) -->
 
 ### Я умею
 
